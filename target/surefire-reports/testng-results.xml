@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42024" started-at="2019-04-24T09:42:36Z" finished-at="2019-04-24T09:43:18Z">
+    <groups>
+    </groups>
+    <test name="venusPWA" duration-ms="42024" started-at="2019-04-24T09:42:36Z" finished-at="2019-04-24T09:43:18Z">
+      <class name="tests.macys.macysHomePage.searchProduct">
+        <test-method status="PASS" signature="validatePageContent()[pri:0, instance:tests.macys.macysHomePage.searchProduct@66238be2]" name="validatePageContent" duration-ms="41623" started-at="2019-04-24T09:42:36Z" description="Search for a Product" finished-at="2019-04-24T09:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageContent -->
+      </class> <!-- tests.macys.macysHomePage.searchProduct -->
+    </test> <!-- venusPWA -->
+  </suite> <!-- Suite -->
+</testng-results>

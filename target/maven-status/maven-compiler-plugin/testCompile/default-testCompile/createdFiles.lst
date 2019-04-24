@@ -1,0 +1,6 @@
+tests/macys/macysHomePage/checkProductCategoryButton.class
+tests/macys/macysHeader/checkHamburgerMenu.class
+tests/macys/macysHomePage/searchProduct.class
+tests/macys/macysHeader/checkLogo.class
+tests/macys/macysHomePage/checkPlusButton.class
+tests/BaseTest.class
